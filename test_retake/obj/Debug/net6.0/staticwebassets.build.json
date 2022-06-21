@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ygRJegcm31hSXYEO0IOXviGmGv4g9WaKg8KQ6r2ps3E=",
+  "Source": "test_retake",
+  "BasePath": "_content/test_retake",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
